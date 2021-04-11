@@ -1,4 +1,7 @@
+# This NN is capable of recognising hand written numbers
+
 # TensorFlow and tf.keras
+
 import tensorflow as tf
 
 # Helper libraries
